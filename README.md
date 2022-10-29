@@ -1,3 +1,6 @@
+https://django.fun/ru/docs/django/4.1/
+Документация Django на русском
+
 # Myfreedom
 
 Здесь расположена пошаговая инструкция как вам нужно обращаться с `git` и `GitHub`
