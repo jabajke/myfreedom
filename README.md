@@ -1,5 +1,7 @@
-https://django.fun/ru/docs/django/4.1/
-Документация Django на русском
+https://django.fun/ru/docs/django/4.1/  
+Документация Django на русском  
+https://metanit.com/  
+Крутой сайт, где можно найти документацию по разным технологиям на русском
 
 # Myfreedom
 
