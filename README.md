@@ -1,3 +1,5 @@
+# <a href="/home"><li><i class="fas fa-home"></i>Главная</li></a>
+
 https://django.fun/ru/docs/django/4.1/  
 Документация Django на русском  
 https://metanit.com/  
