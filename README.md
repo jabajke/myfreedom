@@ -1,3 +1,6 @@
+https://drive.google.com/drive/folders/1hsVdpQwtMjTm_07eHZrTnkLuDZX2FHft?usp=share_link
+https://drive.google.com/drive/folders/1BaTLx03h3MpHRw5MDw_2-RIZtdaJaC8D?usp=share_link
+
 https://django.fun/ru/docs/django/4.1/  
 Документация Django на русском  
 https://metanit.com/  
